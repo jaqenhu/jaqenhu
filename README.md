@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @jaqenhu
-- 👀 I’m deeply interested in AI, LLM, and VR. I focus on the integration and practical landing of cutting-edge technologies.
-- 🌱 I’m currently learning AI Agent development. 
-- 💞️ I’m looking to collaborate on open-source projects related to intelligent Agent iteration, digital twin scenario optimization and VR interactive system development. Welcome technical communication, project cooperation and open source co-creation, whether it is academic exploration, engineering practice or innovative project attempts, I am willing to actively participate and collaborate together.
-- 📫 How to reach me: jaqenhu@foxmail.com. Feel free to contact me for technical exchanges, project cooperation and learning discussions!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a tech explorer. Outside of coding, I love playing soulslike games and keeping fit.
-
-<!---
-jaqenhu/jaqenhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **@jaqenhu** — coding, building agents, and exploring virtual worlds.
+- 👀 Into **AI Agents, LLMs, RAG, digital twins, and VR**. I enjoy turning ideas into tools that work.
+- 🌱 Learning by building: **AI agents, retrieval systems, and automated workflows**.
+- 💞️ Open to collaborating on **open-source AI tools, digital twin applications, and interactive VR experiences**. Let’s exchange ideas and build something together.
+- 🌐 Explore my work: [jaqenhu-portfolio.vercel.app](https://jaqenhu-portfolio.vercel.app/)
+- 📫 Reach me at **jaqenhu@foxmail.com** — technical chats and project ideas welcome.
+- 😄 Pronouns: **He/Him**
+- ⚡ Off the keyboard: **soulslike games, fitness, and the occasional boss fight with a stubborn bug.**
