@@ -9,6 +9,5 @@ I build practical applications with AI Agents, LLMs, and retrieval systems, whil
 - **Portfolio** — [jaqenhu-portfolio.vercel.app](https://jaqenhu-portfolio.vercel.app/)
 - **Contact** — [jaqenhu@foxmail.com](mailto:jaqenhu@foxmail.com)
 - **Beyond code** — Soulslike games and fitness.
-- **Pronouns** — He/Him
 
 Stay curious. Build with purpose.
